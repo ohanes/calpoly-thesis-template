@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: cover.aux
+A level-1 auxiliary file: contents.aux
+A level-1 auxiliary file: chap1.aux
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: chap5.aux
+A level-1 auxiliary file: biblio.aux
+The style file: plain.bst
+Database file #1: main.bib
+Warning--empty booktitle in bugajski90
+Warning--empty booktitle in holzapfel04
+Warning--empty booktitle in haffner98
+Warning--empty booktitle in narendra90
+Warning--can't use both volume and number fields in narendra90
+Warning--empty booktitle in rose12
+Warning--empty booktitle in sadraey06
+Warning--empty booktitle in sanmartin06
+Warning--empty booktitle in morelli02
+Warning--empty year in mroton
+Warning--empty booktitle in bhandari08
+Warning--empty booktitle in prokhorov05
+Warning--empty booktitle in dadian08
+Warning--empty booktitle in bhandari12
+Warning--can't use both volume and number fields in bhandari12
+Warning--empty booktitle in dadian14
+Warning--empty booktitle in lee01
+Warning--can't use both volume and number fields in lee01
+Warning--empty booktitle in maass02
+You've used 29 entries,
+            2118 wiz_defined-function locations,
+            650 strings with 8120 characters,
+and the built_in function-call counts, 7105 in all, are:
+= -- 673
+> -- 203
+< -- 6
++ -- 90
+- -- 58
+* -- 390
+:= -- 1213
+add.period$ -- 92
+call.type$ -- 29
+change.case$ -- 113
+chr.to.int$ -- 0
+cite$ -- 48
+duplicate$ -- 357
+empty$ -- 696
+format.name$ -- 58
+if$ -- 1513
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 30
+newline$ -- 149
+num.names$ -- 58
+pop$ -- 156
+preamble$ -- 2
+purify$ -- 87
+quote$ -- 0
+skip$ -- 219
+stack$ -- 0
+substring$ -- 244
+swap$ -- 48
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 112
+warning$ -- 19
+while$ -- 65
+width$ -- 31
+write$ -- 311
+(There were 19 warnings)
